@@ -1,0 +1,63 @@
+.table {
+  width: 580px;
+  color: #f2f2f3;
+}
+
+.table > tbody {
+  display: block;
+  max-height: 206px;
+  overflow: auto;
+}
+
+.table > tbody::-webkit-scrollbar {
+	width: 12px;
+}
+.table > tbody::-webkit-scrollbar-track {
+	background: var(--background-element);
+}
+.table > tbody::-webkit-scrollbar-thumb {
+	background: var(--text-inactive-color);
+	border: 3px solid var(--background-element);
+	border-radius: 6px;
+}
+
+.table tr {
+  display: table;
+  width: 100%;
+}
+
+.table td,
+.table th {
+  width: 50%;
+}
+
+.table td.quarter,
+.table th.quarter {
+  width: 25%;
+}
+
+.table > thead th {
+  padding-bottom: 24px;
+}
+
+.table > tfoot th {
+  padding-top: 60px;
+}
+
+.th {
+  composes: text_type_main-medium from global;
+
+  text-align: left;
+}
+
+.td {
+  composes: text_type_digits-default p-1 from global;
+}
+
+.td.done {
+  color: var(--colors-interface-success);
+}
+
+.td_large {
+  composes: text_type_digits-large from global;
+}

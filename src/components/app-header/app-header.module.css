@@ -1,0 +1,21 @@
+.header {
+  composes: pt-3 pb-3 from global;
+
+  background-color: var(--background);
+}
+
+.logo {
+  margin-left: 9%;
+  margin-right: 9%;
+}
+
+.login {
+  margin-left: auto;
+}
+
+.container {
+  composes: container from global;
+
+  display: flex;
+  align-items: center;
+}

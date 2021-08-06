@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ttest/static/css/main.8250449c.chunk.css",
+    "main.js": "/ttest/static/js/main.7f9dcd27.chunk.js",
+    "main.js.map": "/ttest/static/js/main.7f9dcd27.chunk.js.map",
+    "runtime-main.js": "/ttest/static/js/runtime-main.7a2a05ae.js",
+    "runtime-main.js.map": "/ttest/static/js/runtime-main.7a2a05ae.js.map",
+    "static/css/2.82424cf1.chunk.css": "/ttest/static/css/2.82424cf1.chunk.css",
+    "static/js/2.deb24881.chunk.js": "/ttest/static/js/2.deb24881.chunk.js",
+    "static/js/2.deb24881.chunk.js.map": "/ttest/static/js/2.deb24881.chunk.js.map",
+    "index.html": "/ttest/index.html",
+    "static/css/2.82424cf1.chunk.css.map": "/ttest/static/css/2.82424cf1.chunk.css.map",
+    "static/css/main.8250449c.chunk.css.map": "/ttest/static/css/main.8250449c.chunk.css.map",
+    "static/js/2.deb24881.chunk.js.LICENSE.txt": "/ttest/static/js/2.deb24881.chunk.js.LICENSE.txt",
+    "static/media/fonts.css": "/ttest/static/media/iceland.77ad7fc2.woff",
+    "static/media/not-found-404.module.css": "/ttest/static/media/icon-black-hole.2b77b73b.svg",
+    "static/media/order-details.module.css": "/ttest/static/media/icon-order-details.7341dd32.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2a05ae.js",
+    "static/css/2.82424cf1.chunk.css",
+    "static/js/2.deb24881.chunk.js",
+    "static/css/main.8250449c.chunk.css",
+    "static/js/main.7f9dcd27.chunk.js"
+  ]
+}
